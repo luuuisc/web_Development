@@ -1,0 +1,32 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Luis",
+            "apellido": "Perez",
+            "edad": 22,
+            "puesto": "Gerente"
+        },
+        {
+            "id": 2,
+            "nombre": "Maria",
+            "apellido": "Gomez",
+            "edad": 25,
+            "puesto": "Secretaria"
+        },
+        {
+            "id": 3,
+            "nombre": "Pedro",
+            "apellido": "Gonzalez",
+            "edad": 35,
+            "puesto": "Contador"
+        },
+        {
+            "id": 4,
+            "nombre": "Ana",
+            "apellido": "Martinez",
+            "edad": 30,
+            "puesto": "Servidores"
+        }
+    ]
+}
